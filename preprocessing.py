@@ -90,6 +90,8 @@ document_store.update_embeddings(retriever)
 # # While this can be a time consuming operation (depending on the corpus size), it only needs to be done once.
 # # At query time, we only need to embed the query and compare it to the existing document embeddings, which is very fast.
 
+if not os.path.exists("data"):
+    os.makedirs("data")
 
 
 # Save the document store:
