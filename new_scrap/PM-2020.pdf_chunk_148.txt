@@ -1,0 +1,35 @@
+134 
+ 10.9 OPTION CLAUSE: 
+The purchaser retains the right to place orders for additional quantity up to a 
+maximum of 50%  of the originally contracted quantity at the same rate and terms of 
+the contract. Such an option is available during the original period of contract provided 
+this clause has been incorporated in the original contract with the supplier. Option 
+quantity during extended DP is limited to 50% of balance quantity after original Delivery 
+Period. 
+10.9.1 Conditions Governing Option Clause : The conditions governed by Option clause are 
+as under: 
+a) Option clause can be exercised with the approval of CFA under whose powers total 
+value of supplies of original contract plus 50% option clause falls. This option is 
+normally exercised only when there is no downward trend in prices as ascertained 
+through market intelligence. CVC have also reiterated the need to look at the 
+downward trend before exercising option clause. 
+b) In case of single vendor OEM, option clause should be normally operated up to 
+50% subject to there being no downward trend. However, in multi vendor contracts, 
+great care should be exercised before operating option clause up to 50%. 
+c) In case provision of option clause has been opted up to a maximum of 50%  of the 
+originally contracted quantity, repeat order option will not be applicable .  
+d) Option clause would not be invoked for the quantity where the total value of 
+supplies of original ordered quantity plus option clause quantity requires convening 
+of CNC in non-CNC cases. 
+10.9.2 CFA for Option Clause : CFA for the sanction of placement of order under option 
+clause would be decided by taking the values of original order & all subsequent orders 
+under option clause into consideration. Concurrence of Financial Advisor would be 
+obtained as per the delegation of financial powers. 
+10.10 TRANSIT INSURANCE COVERAGE: 
+10.10.1 Indigenous Procurement : Normally, all procurements from the indigenous sources 
+are made on FOR (destination) basis and, therefore, do not require transit insurance. 
+Procurements costing above Rs. 2.5 crore, with delivery term other than FOR 
+(destination) will be insured. For procurements costing up to Rs. 2.5 crore, with delivery 
+term other than FOR (destination), Director will use their discretion to decide whether 
+the stores need to be insured or not. It is advised to invariably take insurance for the 
+sensitive/ delicate/ fragile/ equipment/ machinery and scientific instruments where 

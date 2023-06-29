@@ -1,0 +1,26 @@
+188 
+ security before releasing payment/ dispatching goods.   
+a) A Seller would want :  
+(i) An assurance that he will be paid as per contractual terms. 
+(ii) Convenience of receiving payments in their own country.  
+b) A Buyer would want :  
+(i) An assurance that the Seller will dispatch the goods within time. 
+(ii) To pay for the contracted goods only after they are dispatched by the Seller.  
+1.2.3 Advantages of LC :  
+a) For the Seller : 
+(i) The bank honours the credit independent of the Buyer. 
+(ii) The Buyer cannot withhold the payment under any pretence. 
+(iii) Delays that can occur in transmitting bank funds are avoided to a large 
+extent. 
+b) For the Buyer : 
+(i) The goods will be delivered in accordance with the delivery conditions stated 
+in the LC. 
+(ii) Buyer pays only when the documents comply with the credit terms in all 
+respect. 
+1.2.4 Parties involved in opening of LC : 
+1)  Applicant  - Buyer/  Importer  
+2)  Issuing Bank  - Buyer’s bank  
+3)  Advising Bank  - Bank in Seller/ Exporter’s Country  
+4)  Beneficiary  - Seller/ Exporter  
+5)  Negotiating Bank  - Paying Bank, authorized/ nominated by the 
+issuing bank, to pay the money to Seller/ 

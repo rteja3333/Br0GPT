@@ -1,0 +1,30 @@
+171 
+ As an example, the following procedure can be followed. In a particular case of 
+selection of service provider, It was decided to have minimum qualifying marks for 
+technical qualifications as 75 and the weightages of the technical bids and financial bids 
+was kept as 70 : 30. In response to the RFP, 3 proposals, A, B & C were received. The 
+TCEC awarded them 75, 80 and 90 marks respectively. The minimum qualifying marks 
+were 75. All the 3 proposals were, therefore, found technically suitable and their 
+financial proposals were opened after notifying the date and time of bid opening to the 
+successful participants. The C NC examined the financial proposals and evaluated the 
+quoted prices as under: 
+Proposal  Evaluated Cost  
+A Rs. 120  
+B Rs. 100  
+C Rs. 110  
+Using the formula LEC / EC, where LEC stands for lowest evaluated cost and EC 
+stands for evaluated cost, the committee gave them the following points for financial 
+proposals:  
+Proposal  Evaluated Cost  Cost Marks   
+A Rs. 120  (100/120) x 100  = 83 points  
+B Rs. 100  (100/100 ) x 100  = 100 points  
+C Rs. 110  (100/110 ) x 100  = 91 points  
+In the combined evaluation, thereafter, the evaluation committee calculated the 
+combined technical and financial score as under: 
+ Proposal  Evaluated Cost  Cost Marks  Combined Marks  
+A Rs. 120  83 points  (75 x 0.70) + (83 x 0.30) = 77.4 pts  
+B Rs. 100  100 points  (80 x 0.70) + (100 x 0.30) = 86 pts  
+C Rs. 110  91 points  (90 x 0.70) + (91 x 0.30) = 90.3 pts  
+The three proposals in the combined technical and financial evaluation were ranked as 
+under:  
+Proposal  Evaluated Cost  Cost Marks  Combined Marks  Rank  

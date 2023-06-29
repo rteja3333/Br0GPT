@@ -1,0 +1,34 @@
+110 
+ to rectify the goods/ stores/ articles or such portion thereof as is found to be 
+defective by the Buyer within a reasonable period without any financial implication 
+to the Buy er.” 
+b) “In cases of procurement of software , Seller shall issue/provide upgrades of the 
+software free of cost during the warranty period.”  
+7.3.22 Product Support : Following clause should be provided in the RFP where product 
+support beyond warranty period is required: 
+a) The Seller agrees to provide product support for the stores, assemblies/ sub-
+assemblies, fitment items, spares and consumables, Special Maintenance Tools 
+(SMT)/ Special Test Equipments (STE) for a minimum period of _____years 
+including _____ years of warranty period after the delivery.  
+b) The Seller agrees to undertake a maintenance contract for a minimum period of 
+______years/ months. The Seller is required to quote the price for both 
+comprehensive and non-comprehensive maintenance of the equipment after the 
+expiry of warranty period in the price bid.  
+7.3.23 Annual Maintenance Contract (AMC) Clause : In case of AMC or where AMC is also 
+required along with the procurement of goods, a clause to cover such maintenance 
+contract may be incorporated in the RFP. The standard text of this clause is as under: 
+a) The Seller would provide a Non- Comprehensive AMC for a period of ___ years. 
+Or 
+The Seller would provide a Comprehensive AMC for a period of ___ years. The 
+AMC services should cover the repair and maintenance of all the equipment and 
+systems purchased under the Contract and specify following:  
+(i) Maximum repair turnaround time for equipment/system would be _____ 
+days. 
+(ii) Required spares that may be stored at site by the Seller at their own cost 
+to avoid complete breakdown of the equipment/system and to ensure 
+serviceability. 
+b) The AMC services would be provided in two distinct ways: 
+(i) Preventive Maintenance Service:  The Seller will provide a minimum of 
+_____ Preventive Maintenance Service visits during a year to the operating 
+base to carry out functional checkups and minor adjustments/ tuning as 
+may be required.  

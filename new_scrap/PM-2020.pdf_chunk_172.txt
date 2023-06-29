@@ -1,0 +1,34 @@
+158 
+ production cost should not be more than prototype cost (as per developmental contract) 
+after offsetting inflation. Sometimes, it is seen that firms undercut/ offer discount to 
+become L1 in the developmental phase and later jack up prices during the production 
+phase. Care should be taken by the CFA on the merit of the case to safeguard Govt. 
+interest. 
+12.10 PROCESSING OF DEVELOPMENTAL CONTRACT: 
+Some of the important steps involved in the processing of developmental contract are 
+as follows: 
+a) Firming up of vendor qualification criteria 
+b) Framing and Issue of RFP 
+c) Techno-commercial Evaluation of bids and convening of C NC 
+d) Placement of Contract/ Supply Order 
+e) Post Contract Management 
+12.11 INITIATION & APPROVAL OF DEMANDS:  
+Procedure for initiation and approval of demands for developmental/ fabrication 
+contracts will be as per Chapter 4 of this Manual. There would be no requirement of 
+“Performance Security” for the “Development Contracts” entered into by DRDO. This 
+will apply to “Development Contracts” only, as defined in Para 12.5 above. However, 
+Warranty Bond would continue to be obtained from successful development partner to 
+cover the DRDO interest during the warranty period. 
+12.12 FIRMING UP OF VENDOR QUALIFICATION CRITERIA: 
+Identification of appropriate vendors is a vital step and must be well considered. 
+Labs/Estts may use EOI route for firming up of vendor qualification criteria to find a 
+suitable developmental partner(s) as per procedure mentioned hereunder. 
+12.12.1 For identifying firms willing to participate as developmental partner in respect of 
+different categories/ products/ components, notice inviting Expression of Interest (EOI) 
+to be published on Central Public Procurement Portal (CPP-Portal) and DRDO Website 
+only. A notice calling for EOI/RFI will be issued/ published with “in -principle” approval of 
+CFA / DG Cluster (whichever authority is lower). The minimum number of products/ 
+components required to be submitted by the vendor for evaluation and likely demand 
+for those products/ components for the next two to three years after development may 
+be indicated, if feasible, in th e EOI. The attention of known prospective development 
+partner(s) will also be drawn towards EOI/RFI. 

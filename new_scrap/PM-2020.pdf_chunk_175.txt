@@ -1,0 +1,33 @@
+161 
+ 12.16 BID PROCESSING AND CONDUCT OF CNC: 
+All other procedures e.g. bid opening, evaluation of techno-commercial bids, 
+conducting of CNC etc., would be done as per the details given in Chapter 6 of this 
+Manual. 
+12.16.1 Bid Evaluation : In cases where infrastructure requirement for the developmental 
+contract has been specified, TCEC will evaluate the feasibility/ verify the infrastructure 
+details submitted by the firms in order to assess their manufacturing capability and 
+genuine potential for developing the product/ component. 
+12.17 BREAK UP OF QUOTED PRICE:  
+The vendor should be asked to submit the detailed break-up of cost under the 
+headings materials (indigenous/ imported, quantity, cost), labour (number of man 
+hours, man hour rates, etc.), design and developmental, drawings and details of 
+overheads which will be vetted by the user at the time of CNC. Where applicable, the 
+last purchase price (LPP) of imported item or equivalent item may be taken as the 
+base price to arrive at the reasonableness of the quoted rates. In case LPP is not 
+available the base price will be arrived at by the process of benchmarking which will be 
+done prior to opening of the commercial bid. L1 will be determined as per provisions of 
+para 8.3 with reference to the developmental cost, including the cost of prototype and 
+the total quantity for which the initial orders are to be placed. 
+12.18 COST ESTIMATION: 
+For all developmental contracts costing above Rs. 5 crore, Director of the Lab/Estt will 
+constitute a separate Cost Estimation and Reasonability Committee (CERC) to 
+estimate a reasonable cost of the proposed developmental/ fabrication work.  
+Invariably user and finance reps would be members of this committee.  
+12.19 PRE-REQUISITES FOR PLACING DEVELOPMENTAL/ FABRICATION CONTRACTS:   
+The following steps will invariably be followed while entering into a developmental 
+contract: 
+a) Publication of EOI, where required. 
+b) Vendor qualification criteria will be part of RFP.  
+c) Non-Disclosure Agreement (NDA) will be signed. 
+d) Pre-bid conference will be held if required. 
+e) Cost estimate by CERC, as per para 12.18 of this Manual, to arrive at benchmark 

@@ -1,0 +1,31 @@
+169 
+ attributes comprises of parameters related to technical competency/ managerial ability 
+such as availability of qualified personnel and support staff; experience of key 
+personnel or availability of in-house QA practices etc. The Price attribute is related to 
+the price quoted by the bidders. The demand approval process in such cases would 
+inter-alia require compliance of following:  
+a) RFP will be prepared and issued with concurrence of finance. Standard format of 
+RFP would be appropriately modified to incorporate following: 
+(i) Details of work or service to be performed by the contractor. 
+(ii) The facilities and the inputs that would be provided to the contractor by 
+the Lab/Estt. 
+(iii) Eligibility and qualification criteria to be met by the contractor for 
+performing the required work or service. 
+(iv) The statutory and contractual obligations to be complied with by the 
+contractor. 
+(v) Suitable evaluation criteria wherein weightages of “Non -price Attributes” 
+and “Price Attributes” to be mentioned upfront. 
+(vi) In case of outsourcing consultancy services, following Terms of Reference 
+(TOR) will be included in the RFP: 
+ Purpose/ objective of the assignment; 
+ Detailed scope of work;  
+ Expected input of key professionals (number of experts, kind of expertise 
+required);  
+ Proposed schedule for completing the assignment;  
+ Reports/deliverables required from the service provider.  
+ Background material, previous records etc. available and to be provided 
+to the service provider .  
+ Procedure for review of the work of service provider after award of 
+contract.  
+(vii) Standard formats for technical proposal. 
+(viii) Standard formats for financial proposal.  
