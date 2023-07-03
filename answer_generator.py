@@ -1,4 +1,5 @@
 # Using a FIASS document store 
+import os
 from haystack.document_stores import FAISSDocumentStore
 
 # Load the saved index into a new DocumentStore instance:
@@ -45,8 +46,9 @@ lfqa_prompt = PromptTemplate(
                              \n\n Related text: {join(documents)} \n\n Question: {query} \n\n 
                              Final Answer:""",
 )
-
-prompt_node_working = PromptNode("gpt-3.5-turbo", api_key="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", default_prompt_template=lfqa_prompt,model_kwargs={"stream":True})
+api_key=os.environ.get("API-KEY")
+prompt_node_working = PromptNode("gpt-3.5-turbo", api_key=api_key, default_prompt_template=lfqa_prompt,model_kwargs={"stream":True})
+# prompt_node_working = PromptNode("openai-gpt", default_prompt_template=lfqa_prompt,model_kwargs={"stream":True})
 
 # prompt_node = PromptNode("distilbert-base-cased-distilled-squad",default_prompt_template=lfqa_prompt,model_kwargs={"stream":True})
 
@@ -123,6 +125,6 @@ def question_answering_bot(input_question):
     ## Testing llms 
 
 
-reply = question_answering_bot("Expalin the policies of performance security bond ?")
-print("\n\n\n RESULT\n")
-print(reply)
+# reply = question_answering_bot("Expalin the policies of performance security bond ?")
+# print("\n\n\n RESULT\n")
+# print(reply)

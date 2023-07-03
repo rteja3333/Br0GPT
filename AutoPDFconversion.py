@@ -1,6 +1,6 @@
 import os
 import shutil
-from PyPDF2 import PdfFileReader, PdfFileWriter
+from PyPDF2 import PdfFileReader, PdfFileWriter,PdfReader,PdfWriter
 import PyPDF2
 
 def split_pdf(input_path, output_directory, chunk_size):
@@ -15,11 +15,11 @@ def split_pdf(input_path, output_directory, chunk_size):
 
             # Read the input PDF file
             with open(file_path, 'rb') as input_file:
-                pdf = PdfFileReader(input_file)
-
+                # pdf = PdfFileReader(input_file)
+                pdf= PdfReader(input_file)
                 # Determine the total number of pages in the PDF
-                total_pages = pdf.getNumPages()
-
+                # total_pages = pdf.getNumPages()
+                total_pages=len(pdf.pages)
                 # Calculate the number of chunks
                 num_chunks = total_pages // chunk_size
                 if total_pages % chunk_size != 0:
@@ -31,11 +31,12 @@ def split_pdf(input_path, output_directory, chunk_size):
                     end_page = min(start_page + chunk_size, total_pages)
 
                     # Create a new PDF writer for each chunk
-                    output_pdf = PdfFileWriter()
-
+                    # output_pdf = PdfFileWriter()
+                    output_pdf=PdfWriter()
                     # Extract pages from the input PDF and add them to the chunk
                     for page in range(start_page, end_page):
-                        output_pdf.addPage(pdf.getPage(page))
+                        # output_pdf.addPage(pdf.getPage(page))
+                        output_pdf.add_page(pdf.pages[page])
 
                     # Save the chunk to a new PDF file
                     output_file_path = os.path.join(output_directory, f'{filename}_chunk_{i+1}.pdf')
@@ -54,10 +55,12 @@ def convert_pdf_to_txt(input_directory, output_directory):
             # Convert PDF to TXT
             try:
                 with open(pdf_path, "rb") as pdf_file:
-                    reader = PyPDF2.PdfFileReader(pdf_file)
+                    # reader = PyPDF2.PdfFileReader(pdf_file)
+                    reader = PyPDF2.PdfReader(pdf_file)
+
                     text = ""
-                    for page_num in range(reader.numPages):
-                        page = reader.getPage(page_num)
+                    for page_num in range(len(reader.pages)):
+                        page = reader.pages[page_num]
                         text += page.extract_text()
 
                 os.makedirs(os.path.dirname(txt_path), exist_ok=True)

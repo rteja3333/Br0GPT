@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template, jsonify
-
+# from whisper import 
 # Importing whisper to control audio
 import whisper
 model = whisper.load_model("base")
