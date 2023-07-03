@@ -1,14 +1,14 @@
 # Br0GPT
 
-##Progress :
- ###Implemented 
+## Progress :
+ ### Implemented 
     - question-answering bot without memory(emb. retiriever,LLM- )
     - Feeded PDF docs, autoconversion to txt file
     - used FAISS docs. store as Database
     - used Flask for frontend
     - input can be in text or audio form
 
- ###Immediate Goals 
+ ### Immediate Goals 
     - user feedback, based on which lesser accurate documents can be retreiverd
     - uploading user documents i.e., extending our database
     - Memory factor
